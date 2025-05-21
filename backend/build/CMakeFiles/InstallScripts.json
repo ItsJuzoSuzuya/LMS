@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nick/LMS/backend/build/cmake_install.cmake",
+		"/home/nick/LMS/backend/build/external/pybind11/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

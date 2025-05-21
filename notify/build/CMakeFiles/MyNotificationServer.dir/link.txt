@@ -1,0 +1,1 @@
+/bin/c++ -Wl,--dependency-file=CMakeFiles/MyNotificationServer.dir/link.d CMakeFiles/MyNotificationServer.dir/main.cpp.o -o /home/nick/LMS/notify/MyNotificationServer   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lcpr /usr/lib/libpq.so

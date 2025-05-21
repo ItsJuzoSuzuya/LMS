@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nick/LMS/notify/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1 @@
+/bin/c++ -fPIC -flto -Wl,--dependency-file=CMakeFiles/db.dir/link.d -shared  -o db.cpython-313-x86_64-linux-gnu.so CMakeFiles/db.dir/src/db.cpp.o  -lpq

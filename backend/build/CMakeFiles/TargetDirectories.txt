@@ -1,0 +1,5 @@
+/home/nick/LMS/backend/build/CMakeFiles/db.dir
+/home/nick/LMS/backend/build/CMakeFiles/edit_cache.dir
+/home/nick/LMS/backend/build/CMakeFiles/rebuild_cache.dir
+/home/nick/LMS/backend/build/external/pybind11/CMakeFiles/edit_cache.dir
+/home/nick/LMS/backend/build/external/pybind11/CMakeFiles/rebuild_cache.dir

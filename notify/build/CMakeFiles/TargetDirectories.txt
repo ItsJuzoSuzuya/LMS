@@ -1,0 +1,3 @@
+/home/nick/LMS/notify/build/CMakeFiles/MyNotificationServer.dir
+/home/nick/LMS/notify/build/CMakeFiles/edit_cache.dir
+/home/nick/LMS/notify/build/CMakeFiles/rebuild_cache.dir
