@@ -15,4 +15,5 @@ jobs:
       - name: Run a script
         run: |
           echo "Running my app..."
+          export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
           ./notify/MyNotificationServer
